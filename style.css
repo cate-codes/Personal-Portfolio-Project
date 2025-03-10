@@ -1,0 +1,58 @@
+img {
+  height: 600px;
+  margin-right: 600px;
+}
+
+header {
+  color: rgb(145, 183, 254);
+}
+
+#Inp1 {
+  text-align: center;
+  color: rgb(145, 183, 254);
+}
+
+h1 {
+  border: 1px solid;
+  text-align: center;
+  color: rgb(145, 183, 254);
+  text-decoration: 1px underline;
+}
+h3 {
+  color: rgb(145, 183, 254);
+  text-decoration: 1px underline;
+}
+
+#p1 {
+  color: rgb(145, 183, 254);
+}
+#p2 {
+  color: rgb(145, 183, 254);
+}
+
+#p3 {
+  color: rgb(145, 183, 254);
+}
+
+* {
+  background-color: rgb(42, 42, 58);
+}
+
+a {
+  color: rgb(242, 98, 146);
+}
+
+#head1 {
+  text-align: right;
+}
+#head2 {
+  text-align: left;
+}
+#head3 {
+  text-align: right;
+}
+
+footer {
+  text-align: center;
+  color: rgb(145, 183, 254);
+}
